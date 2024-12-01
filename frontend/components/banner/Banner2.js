@@ -13,7 +13,7 @@ const Banner2 = () => {
 
 
     <div className="overlay"></div>
-    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" className="header-video">
+    <video playsInline="playsInline" autoplay="autoplay" muted="muted" loop="loop" className="header-video">
       <source src="event.mp4" type="video/mp4"></source>
     </video>
     
@@ -22,7 +22,7 @@ const Banner2 = () => {
 
   <div class="overlay"></div>
 
-  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+  <video playsInline="playsInline" autoplay="autoplay" muted="muted" loop="loop">
   <source src="https://gigikart.com/pexels.mp4" type="video/mp4"></source>
   </video>
 
